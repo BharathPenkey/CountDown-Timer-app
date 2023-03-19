@@ -1,0 +1,28 @@
+*{
+    background-color: skyblue;
+    text-align: center;
+
+}
+h1{
+    color:green;
+    margin-top:60px;
+
+}
+#container{
+    text-align: center;
+  
+}
+#container > input{
+    width:200px;
+    height:50px;
+    font-size: larger;
+    border:3px solid black;
+    border-radius:5px;
+    color:blue;
+    background-color: rgb(246, 216, 160);
+}
+#current-time{
+    margin-top:50px;
+    color:red;
+    font-size: xx-large;
+}
